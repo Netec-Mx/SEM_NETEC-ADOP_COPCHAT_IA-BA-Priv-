@@ -1,3 +1,5 @@
+<img src="images/neteclogo (2).png" alt="logo" width="300"/>
+
 # Adopción y uso práctico de Microsoft 365 Copilot como IA corporativa
 
 Este seminario introduce a los participantes en el uso de la Inteligencia Artificial generativa en el entorno laboral y en el papel de Microsoft 365 Copilot y Copilot Chat como herramientas de IA corporativa. A través de explicaciones y demostraciones basadas en situaciones cotidianas, los participantes conocerán cómo interactuar con la IA, mejorar sus solicitudes y aprovecharla para organizar, analizar, redactar y transformar información. Asimismo, comprenderán la importancia de utilizar herramientas autorizadas, proteger la información organizacional y validar los resultados generados por IA para promover una adopción segura, responsable y productiva.
@@ -36,8 +38,13 @@ Este seminario introduce a los participantes en el uso de la Inteligencia Artifi
 - [Práctica guiada: Analizar comentarios de clientes con Copilot Chat, generar gráficos y proponer acciones de mejora](Capitulo04/README.md#práctica-guiada-analizar-comentarios-de-clientes-con-copilot-chat-generar-gráficos-y-proponer-acciones-de-mejora)
   - Duración estimada: 40 min
 
-## Flujo de colaboración
+---
 
-- Trabajar en `changes_course`.
-- Crear Pull Request hacia `main`.
-- Merge por `Squash and merge`.
+## 📬 **Contacto y más información**
+
+Si tienes alguna pregunta o necesitas más detalles, no dudes en [contactarnos](mailto:soporte@netec.com). También puedes encontrar más recursos en nuestra [página](https://netec.com).
+
+---
+
+¡Gracias por visitar nuestra plataforma! No olvides revisar todos los laboratorios y comenzar tu viaje de aprendizaje hoy mismo.
+
